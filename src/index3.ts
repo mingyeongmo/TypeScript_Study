@@ -19,7 +19,6 @@ const age2:IsAdult = (age) => {
 }
 
 age2(33) // true
-console.log(age2);
 
 // implements
 

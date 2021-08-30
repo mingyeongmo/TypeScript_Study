@@ -6,7 +6,6 @@ const age2 = (age) => {
     return age > 19; // 크면 true 아니면 false
 };
 age2(33); // true
-console.log(age2);
 // implements
 // interface Car {
 //     color: string;
